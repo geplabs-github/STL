@@ -1,5 +1,5 @@
-Seznam a popis souborù FlatBox.zip
-FlatBoxCover_Batt.stl					Víèko
-FlatBoxCover_Batt_Ribs.stl		Víèko s ebrováním
-FlatBox_Batt_Ant.stl					Pouzdro desky s otvorem pro anténu
-FlatBox_Batt_Ant_Ribs.stl			Pouzdro desky s otvorem pro anténu a ebrováním
+Seznam a popis souborÅ¯ FlatBox.zip
+FlatBoxCover_Batt.stl					VÃ­Äko
+FlatBoxCover_Batt_Ribs.stl		VÃ­Äko s Å¾ebrovÃ¡nÃ­m
+FlatBox_Batt_Ant.stl					Pouzdro desky s otvorem pro antÃ©nu
+FlatBox_Batt_Ant_Ribs.stl			Pouzdro desky s otvorem pro antÃ©nu a Å¾ebrovÃ¡nÃ­m
