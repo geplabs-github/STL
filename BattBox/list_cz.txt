@@ -1,0 +1,16 @@
+Seznam a popis souborù BattBox.zip
+BattBoxBatt.stl										Pouzdro baterie
+BattBoxBattCover.stl							Víèko na pouzdro baterie
+BattBoxBattCover_Rope.stl					Víèko na pouzdro baterie s možností pøidìlání provázku
+BattBoxColar.stl									Límec
+BattBoxJoint.stl									Spojka
+BattBoxPCBCover.stl								Víèko na pouzdro desky
+BattBoxPCBCover_LED.stl						Víèko na pouzdro desky s otvorem pro LED
+BattBoxPCBCover_LED_Buzzer.stl		Víèko na pouzdro desky s otvorem pro LED a bzuèák
+BattBoxPCB_Ant.stl								Pouzdro desky s otvorem pro anténu
+BattBoxPCB_Ant_RibsBellow.stl			Pouzdro desky s otvorem pro anténu, žebra dole
+BattBoxPCB_Ant_RibsSide.stl				Pouzdro desky s otvorem pro anténu, žebra po stranách
+BattBoxPCB_Ant_Switch.stl					Pouzdro desky s otvorem pro anténu a vypínaè
+BattBoxWireRedc_Colar.stl					Redukce pro drátovou anténu s použitým límcem
+BattBoxWireRedc_NoColar.stl				Redukce pro drátovou anténu bez límce
+

@@ -1,0 +1,4 @@
+Seznam a popis souborù PwrBox.zip
+PwrBoxCover.stl				Víèko
+PwrBox_Ant.stl				Pouzdro desky s otvorem pro anténu
+PwrBox_Ant_Ribs.stl		Pouzdro desky s otvorem pro anténu a žebrování

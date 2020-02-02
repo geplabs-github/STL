@@ -1,0 +1,16 @@
+List and description of BattBox.zip content
+BattBoxBatt.stl										Battery box
+BattBoxBattCover.stl							Battery box cover
+BattBoxBattCover_Rope.stl					Battery box cover with rope holes 
+BattBoxColar.stl									Collar
+BattBoxJoint.stl									Joint
+BattBoxPCBCover.stl								PCB box cover
+BattBoxPCBCover_LED.stl						PCB box cover with LED hole
+BattBoxPCBCover_LED_Buzzer.stl		PCB box cover with LED hole and buzzer
+BattBoxPCB_Ant.stl								PCB box with antenna hole
+BattBoxPCB_Ant_RibsBellow.stl			PCB box with antenna hole, ribs at the bottom
+BattBoxPCB_Ant_RibsSide.stl				PCB box with antenna hole, ribs on the sides
+BattBoxPCB_Ant_Switch.stl					PCB box with antenna and switch hole
+BattBoxWireRedc_Colar.stl					Reduction for wire antenna with used collar
+BattBoxWireRedc_NoColar.stl				Reduction for wire antenna without collar
+

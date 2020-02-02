@@ -1,0 +1,5 @@
+List and description of FlatBox.zip content
+FlatBoxCover_Batt.stl					Cover
+FlatBoxCover_Batt_Ribs.stl		Ribbed cover
+FlatBox_Batt_Ant.stl					Box with antenna hole
+FlatBox_Batt_Ant_Ribs.stl			Box with antenna hole and ribs

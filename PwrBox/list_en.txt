@@ -1,0 +1,4 @@
+Seznam a popis souborù PwrBox.zip
+PwrBoxCover.stl				Cover
+PwrBox_Ant.stl				Box with antenna hole
+PwrBox_Ant_Ribs.stl		Box with antenna hole and ribs
