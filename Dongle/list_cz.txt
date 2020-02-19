@@ -1,0 +1,4 @@
+Seznam a popis souborů Dongle.zip
+DongleBox.stl						Krabička
+DongleCover.stl					Víčko
+DongleCoverNoLogo.stl		Víčko bez loga

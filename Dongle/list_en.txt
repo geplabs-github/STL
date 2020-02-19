@@ -1,0 +1,4 @@
+List and description of Dongle.zip content
+DongleBox.stl						Box
+DongleCover.stl					Cover
+DongleCoverNoLogo.stl		Cover without logo
